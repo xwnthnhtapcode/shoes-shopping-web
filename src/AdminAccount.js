@@ -1,0 +1,5 @@
+export const adminAccount = 'admin@gmail.com'
+// export const adminAccount2 = 'admin@gmail.com'
+// export const adminAccount3 = 'admin@gmail.com'
+// export const adminAccount4 = 'admin@gmail.com'
+// export const adminAccount5 = 'admin@gmail.com'
